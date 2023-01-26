@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#demonstrates the use of until statement in bash.
+x=1
+until [ $x -gt 10 ]
+do
+	echo "Best School"
+	((x++))
+done
