@@ -1,3 +1,2 @@
-   loops_conditions_and_parsing
-focuses on loops, conditioning and parsing in bash
-programming.
+Loops, conditions and parsing
+focuses on loops, conditions and parsing in bash programming.
