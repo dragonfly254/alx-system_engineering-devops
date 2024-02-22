@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#demonstrating use of if statement.
+iter=1
+while [ $iter -lt 11 ]
+do
+	echo "Best School"
+	if [ $iter -eq 9 ]
+	then
+		echo "Hi"
+	fi
+	((iter++))
+done

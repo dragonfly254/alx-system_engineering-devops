@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#prints Best School 10 time using until loop
+iter=10
+until [ $iter -lt 1 ]
+do
+	echo "Best School"
+	((iter--))
+done
